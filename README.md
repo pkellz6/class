@@ -1,5 +1,5 @@
 # Class
-
+this is class
 ---
 
 [![spm package](http://spmjs.io/badge/arale-class)](http://spmjs.io/package/arale-class)
